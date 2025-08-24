@@ -13,7 +13,7 @@ Ana maaş, mesai ve bonus hesaplama
 
 Konsol tablosu olarak rapor yazdırma
 
-jsonlar1/bordro.json dosyasına çıktı üretme
+jsonlar2/bordro.json dosyasına çıktı üretme
 
 Memur için derece (1–4) mantığı
 
