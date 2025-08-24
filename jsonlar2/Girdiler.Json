@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Yonetici",
+    "name": "john smith"
+   
+  },
+  {
+    "title": "Memur",
+    "name": "alice doe"
+    
+  },
+  {
+    "title": "Memur",
+    "name": "mark lewis"
+   
+  },
+  {
+    "title": "Yonetici",
+    "name": "susan clark"
+    
+  },
+  {
+    "title": "Memur",
+    "name": "mike brown"
+    
+  }
+]
