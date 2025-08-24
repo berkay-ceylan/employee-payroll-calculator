@@ -2,22 +2,22 @@
   {
     "Isim": "john smith",
     "Pozisyon": "Yonetici",
-    "CalismaSaati": 500,
-    "SaatlikUcret": 5000,
-    "AnaMaas": 2500000,
+    "CalismaSaati": 10000,
+    "SaatlikUcret": 10000,
+    "AnaMaas": 100000000,
     "MesaiMaasi": 0,
-    "Bonus": 5,
-    "Toplam": 2500005
+    "Bonus": 22,
+    "Toplam": 100000022
   },
   {
     "Isim": "alice doe",
     "Pozisyon": "Memur",
-    "CalismaSaati": 100,
+    "CalismaSaati": 200,
     "SaatlikUcret": 500,
-    "AnaMaas": 50000,
-    "MesaiMaasi": 0.0,
+    "AnaMaas": 90000,
+    "MesaiMaasi": 15000.0,
     "Bonus": 0,
-    "Toplam": 50000.0
+    "Toplam": 105000.0
   },
   {
     "Isim": "mark lewis",
@@ -32,21 +32,21 @@
   {
     "Isim": "susan clark",
     "Pozisyon": "Yonetici",
-    "CalismaSaati": 1000,
+    "CalismaSaati": 10000,
     "SaatlikUcret": 1111,
-    "AnaMaas": 1111000,
+    "AnaMaas": 11110000,
     "MesaiMaasi": 0,
     "Bonus": 1,
-    "Toplam": 1111001
+    "Toplam": 11110001
   },
   {
     "Isim": "mike brown",
     "Pozisyon": "Memur",
-    "CalismaSaati": 10000,
-    "SaatlikUcret": 500,
-    "AnaMaas": 90000,
-    "MesaiMaasi": 7365000.0,
+    "CalismaSaati": 677,
+    "SaatlikUcret": 550,
+    "AnaMaas": 99000,
+    "MesaiMaasi": 410025.0,
     "Bonus": 0,
-    "Toplam": 7455000.0
+    "Toplam": 509025.0
   }
 ]

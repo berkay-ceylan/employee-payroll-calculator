@@ -40,7 +40,7 @@ namespace CSProjeDemo5
                     ana = item.SaatlikUcret * item.CalismaSaati;
                 }
 
-                var toplam = ana + mesai + bonus;
+                var toplam = item.MaasHesapla();
 
                 Console.WriteLine($"{item.İsim,-16} {item.Pozisyon,-10} {item.CalismaSaati,6:0} {item.SaatlikUcret,8:0} {ana,12:0} {mesai,12:0} {bonus,8:0} {toplam,12:0}");
 

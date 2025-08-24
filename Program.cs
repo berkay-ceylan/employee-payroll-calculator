@@ -21,6 +21,7 @@
 
             do
             {
+                hata = false;
                 try
                 {
                     foreach (var item in personeller)
