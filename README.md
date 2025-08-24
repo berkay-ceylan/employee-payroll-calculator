@@ -1,4 +1,4 @@
-#Employee Payroll Calculator
+Employee Payroll Calculator
 
 (TR: Personel Bordro Hesaplayıcı)
 
